@@ -69,7 +69,7 @@
             "last_commit": "2026-07-08T13:48:28Z",
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2685
+            "stars": 2689
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2026-07-17T13:56:45Z",
             "owner": "BaiShuanghao",
             "repo": "Awesome-Robotics-Manipulation",
-            "stars": 1093
+            "stars": 1094
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-05T23:24:28Z",
             "owner": "linchangyi1",
             "repo": "Awesome-Touch",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2026-06-25T14:20:19Z",
             "owner": "aCodeDog",
             "repo": "awesome-loco-manipulation",
-            "stars": 319
+            "stars": 320
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T17:26:32Z",
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7820
+            "stars": 7829
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2025-01-26T08:11:29Z",
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2064
+            "stars": 2066
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2024-09-27T02:38:47Z",
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
-            "stars": 1294
+            "stars": 1295
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2024-09-27T02:38:47Z",
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
-            "stars": 1294
+            "stars": 1295
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2025-09-01T01:37:37Z",
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2024-05-15T12:53:19Z",
             "owner": "MarkFzp",
             "repo": "act-plus-plus",
-            "stars": 3654
+            "stars": 3655
           }
         },
         {
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:49:37.257Z",
+    "last_updated": "2026-08-15T02:36:40.922Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
     "enhanced_repository": "enhansome/enhansome-humanoid-manipulation",
