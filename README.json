@@ -69,7 +69,7 @@
             "last_commit": "2026-07-08T13:48:28Z",
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2689
+            "stars": 2693
           }
         },
         {
@@ -83,7 +83,7 @@
             "last_commit": "2026-08-04T09:53:46Z",
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1632
+            "stars": 1633
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T17:26:32Z",
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7829
+            "stars": 7835
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2025-01-26T08:11:29Z",
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2066
+            "stars": 2068
           }
         },
         {
@@ -652,7 +652,7 @@
             "last_commit": "2024-09-18T13:18:22Z",
             "owner": "Dingry",
             "repo": "BunnyVisionPro",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-01-21T09:48:33Z",
             "owner": "thu-ml",
             "repo": "RoboticsDiffusionTransformer",
-            "stars": 1772
+            "stars": 1773
           }
         },
         {
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:36:40.922Z",
+    "last_updated": "2026-08-16T02:46:05.270Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
     "enhanced_repository": "enhansome/enhansome-humanoid-manipulation",
