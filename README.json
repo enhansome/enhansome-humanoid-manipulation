@@ -69,7 +69,7 @@
             "last_commit": "2026-07-08T13:48:28Z",
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2693
+            "stars": 2694
           }
         },
         {
@@ -83,7 +83,7 @@
             "last_commit": "2026-08-04T09:53:46Z",
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1633
+            "stars": 1634
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T17:26:32Z",
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7835
+            "stars": 7838
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2025-01-26T08:11:29Z",
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2068
+            "stars": 2069
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2025-02-21T06:58:48Z",
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
-            "stars": 1053
+            "stars": 1055
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2025-09-18T04:32:50Z",
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
-            "stars": 783
+            "stars": 784
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2025-07-18T09:52:33Z",
             "owner": "TEA-Lab",
             "repo": "DemoGen",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2025-08-24T21:42:57Z",
             "owner": "behavior-robot-suite",
             "repo": "brs-algo",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2025-08-20T20:41:20Z",
             "owner": "apple",
             "repo": "ml-egodex",
-            "stars": 364
+            "stars": 365
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2026-03-26T14:47:32Z",
             "owner": "JYChen18",
             "repo": "Dexonomy",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:46:05.270Z",
+    "last_updated": "2026-08-17T02:45:46.718Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
     "enhanced_repository": "enhansome/enhansome-humanoid-manipulation",
