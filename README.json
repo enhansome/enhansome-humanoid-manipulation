@@ -69,7 +69,7 @@
             "last_commit": "2026-07-08T13:48:28Z",
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2698
+            "stars": 2702
           }
         },
         {
@@ -83,7 +83,7 @@
             "last_commit": "2026-08-04T09:53:46Z",
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1635
+            "stars": 1636
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-17T17:33:27Z",
             "owner": "linchangyi1",
             "repo": "Awesome-Touch",
-            "stars": 756
+            "stars": 757
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-10T17:26:32Z",
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7846
+            "stars": 7855
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2025-01-26T08:11:29Z",
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2069
+            "stars": 2070
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2025-02-21T06:58:48Z",
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
-            "stars": 1055
+            "stars": 1056
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2025-08-20T20:41:20Z",
             "owner": "apple",
             "repo": "ml-egodex",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2025-01-23T15:42:40Z",
             "owner": "PKU-EPIC",
             "repo": "DexGraspNet2",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -700,7 +700,7 @@
             "last_commit": "2026-01-21T09:48:33Z",
             "owner": "thu-ml",
             "repo": "RoboticsDiffusionTransformer",
-            "stars": 1774
+            "stars": 1775
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2025-02-20T05:53:06Z",
             "owner": "huangwl18",
             "repo": "ReKep",
-            "stars": 980
+            "stars": 982
           }
         },
         {
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:40:03.199Z",
+    "last_updated": "2026-08-19T02:42:47.316Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
     "enhanced_repository": "enhansome/enhansome-humanoid-manipulation",
