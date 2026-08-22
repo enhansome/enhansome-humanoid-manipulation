@@ -72,10 +72,10 @@
             "archived": false,
             "id": 539774101,
             "language": null,
-            "last_commit": "2026-08-17T17:33:27Z",
+            "last_commit": "2026-08-21T17:59:16Z",
             "owner": "linchangyi1",
             "repo": "Awesome-Touch",
-            "stars": 756
+            "stars": 757
           }
         },
         {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7873
+                "stars": 7880
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2024-09-27T02:38:47Z",
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1298
+                "stars": 1299
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-09-27T02:38:47Z",
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1298
+                "stars": 1299
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2025-10-03T02:21:50Z",
                 "owner": "visualmimic",
                 "repo": "VisualMimic",
-                "stars": 298
+                "stars": 299
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 370
+                "stars": 373
               }
             },
             {
@@ -540,7 +540,7 @@
                 "last_commit": "2025-06-12T04:38:29Z",
                 "owner": "PKU-RL",
                 "repo": "CrossDex",
-                "stars": 81
+                "stars": 82
               }
             },
             {
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:48:13.921Z",
+    "last_updated": "2026-08-22T02:39:20.088Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_id": 875257014,
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
