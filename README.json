@@ -15,7 +15,7 @@
             "last_commit": "2026-07-08T13:48:28Z",
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2707
+            "stars": 2711
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-21T17:59:16Z",
             "owner": "linchangyi1",
             "repo": "Awesome-Touch",
-            "stars": 757
+            "stars": 758
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-25T14:20:19Z",
             "owner": "aCodeDog",
             "repo": "awesome-loco-manipulation",
-            "stars": 320
+            "stars": 321
           }
         },
         {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7880
+                "stars": 7888
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2025-01-26T08:11:29Z",
                 "owner": "roboterax",
                 "repo": "humanoid-gym",
-                "stars": 2072
+                "stars": 2073
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2025-06-16T06:52:49Z",
                 "owner": "YanjieZe",
                 "repo": "Improved-3D-Diffusion-Policy",
-                "stars": 553
+                "stars": 552
               }
             },
             {
@@ -689,7 +689,7 @@
                 "last_commit": "2026-01-21T09:48:33Z",
                 "owner": "thu-ml",
                 "repo": "RoboticsDiffusionTransformer",
-                "stars": 1775
+                "stars": 1776
               }
             },
             {
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:39:20.088Z",
+    "last_updated": "2026-08-23T02:48:28.535Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_id": 875257014,
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
