@@ -15,7 +15,7 @@
             "last_commit": "2026-07-08T13:48:28Z",
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2711
+            "stars": 2712
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-16T11:43:56Z",
             "owner": "jonyzhang2023",
             "repo": "awesome-humanoid-learning",
-            "stars": 941
+            "stars": 942
           }
         },
         {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7888
+                "stars": 7893
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2024-09-27T02:38:47Z",
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1299
+                "stars": 1300
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-09-27T02:38:47Z",
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1299
+                "stars": 1300
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2024-11-23T22:55:34Z",
                 "owner": "Kchu",
                 "repo": "LABOR-Agent",
-                "stars": 23
+                "stars": 24
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 373
+                "stars": 374
               }
             },
             {
@@ -674,7 +674,7 @@
                 "last_commit": "2024-05-15T12:53:19Z",
                 "owner": "MarkFzp",
                 "repo": "act-plus-plus",
-                "stars": 3656
+                "stars": 3657
               }
             },
             {
@@ -764,7 +764,7 @@
                 "last_commit": "2025-03-24T09:17:03Z",
                 "owner": "Kchu",
                 "repo": "LLM-MAP",
-                "stars": 22
+                "stars": 23
               }
             }
           ],
@@ -801,7 +801,7 @@
                 "last_commit": "2025-07-01T04:24:28Z",
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
-                "stars": 122
+                "stars": 123
               }
             },
             {
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:48:28.535Z",
+    "last_updated": "2026-08-24T02:49:17.451Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_id": 875257014,
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
