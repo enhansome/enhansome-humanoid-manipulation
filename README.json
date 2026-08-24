@@ -4,6 +4,630 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "H1",
+              "description": "Unitree URDF & MJCF, USD BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287439935,
+                "language": "C++",
+                "last_commit": "2026-08-24T06:28:26Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_ros",
+                "stars": 1533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "H1-2 (preview)",
+              "description": "Unitree URDF & MJCF, Simplified URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703406051,
+                "language": "Python",
+                "last_commit": "2025-07-25T10:20:22Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_rl_gym",
+                "stars": 3514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "G1",
+              "description": "Unitree URDF & MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287439935,
+                "language": "C++",
+                "last_commit": "2026-08-24T06:28:26Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_ros",
+                "stars": 1533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GR-1",
+              "description": "FFTAI (Fourier) URDF, MJCF GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807539348,
+                "language": "Python",
+                "last_commit": "2025-11-13T08:41:13Z",
+                "owner": "FFTAI",
+                "repo": "Wiki-GRx-Models",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GR-2",
+              "description": "FFTAI (Fourier) URDF GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807539348,
+                "language": "Python",
+                "last_commit": "2025-11-13T08:41:13Z",
+                "owner": "FFTAI",
+                "repo": "Wiki-GRx-Models",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgiBot X1",
+              "description": "AgiBot URDF & MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877059051,
+                "language": "Python",
+                "last_commit": "2024-10-23T04:00:36Z",
+                "owner": "AgibotTech",
+                "repo": "agibot_x1_train",
+                "stars": 1696
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atlas v4",
+              "description": "Boston Dynamics URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91389763,
+                "language": "Python",
+                "last_commit": "2023-04-02T11:37:04Z",
+                "owner": "openai",
+                "repo": "roboschool",
+                "stars": 2169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Digit",
+              "description": "Agility Robotics URDF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370631833,
+                "language": "Julia",
+                "last_commit": "2023-08-23T14:50:42Z",
+                "owner": "adubredu",
+                "repo": "DigitRobot.jl",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magicbot Z1",
+              "description": "Magiclab URDF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1041107145,
+                "language": "Python",
+                "last_commit": "2026-07-09T13:53:23Z",
+                "owner": "MagiclabRobotics",
+                "repo": "magicbot-z1_description",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Robotics",
+              "description": "Deep Robotics URDF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728913161,
+                "language": null,
+                "last_commit": "2026-08-13T09:23:47Z",
+                "owner": "DeepRoboticsLab",
+                "repo": "deep_robotics_model",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Berkeley Humanoid Lite",
+              "description": "UC Berkeley URDF, MJCF, USD Open Source ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950286225,
+                "language": "Python",
+                "last_commit": "2026-03-10T20:15:00Z",
+                "owner": "HybridRobotics",
+                "repo": "berkeley-humanoid-lite",
+                "stars": 1675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Berkeley Humanoid",
+              "description": "UC Berkeley URDF Open Source ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846754567,
+                "language": "OpenSCAD",
+                "last_commit": "2024-08-23T22:13:52Z",
+                "owner": "HybridRobotics",
+                "repo": "berkeley_humanoid_description",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Also see: MuJoCo Menagerie",
+              "description": "for high-quality MJCF models, awesome-robot-descriptions for a comprehensive list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Humanoids"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ability Hand",
+              "description": "PSYONIC, Inc. MJCF, URDF ✖️ ✔️ ✔️ ✖️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468087319,
+                "language": "Python",
+                "last_commit": "2026-05-18T17:29:32Z",
+                "owner": "psyonicinc",
+                "repo": "ability-hand-api",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Allegro Hand",
+              "description": "Wonik Robotics URDF, MJCF BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152971074,
+                "language": "Starlark",
+                "last_commit": "2026-08-17T10:14:23Z",
+                "owner": "RobotLocomotion",
+                "repo": "models",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shadow Hand",
+              "description": "Shadow Robot URDF, MJCF BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41478431,
+                "language": "Python",
+                "last_commit": "2025-01-09T11:48:13Z",
+                "owner": "shadow-robot",
+                "repo": "sr_common",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LEAP Hand",
+              "description": "Carnegie Mellon URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 690100134,
+                "language": "Python",
+                "last_commit": "2024-05-18T18:48:48Z",
+                "owner": "leap-hand",
+                "repo": "LEAP_Hand_Sim",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inspire Hand",
+              "description": "Inspire-Robots URDF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658943088,
+                "language": "Python",
+                "last_commit": "2025-08-17T19:46:53Z",
+                "owner": "dexsuite",
+                "repo": "dex-urdf",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ORCA Hand",
+              "description": "ORCA Robotics URDF & MJCF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 977435538,
+                "language": "Python",
+                "last_commit": "2026-07-31T09:37:02Z",
+                "owner": "orcahand",
+                "repo": "orcahand_description",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wuji Hand",
+              "description": "Wuji Technology URDF & MJCF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1104511512,
+                "language": "Python",
+                "last_commit": "2026-04-27T06:16:52Z",
+                "owner": "wuji-technology",
+                "repo": "wuji-hand-description",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SVH Hand",
+              "description": "SCHUNK URDF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658943088,
+                "language": "Python",
+                "last_commit": "2025-08-17T19:46:53Z",
+                "owner": "dexsuite",
+                "repo": "dex-urdf",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Also see: dex-urdf",
+              "description": "for a collection of dexterous hand URDFs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658943088,
+                "language": "Python",
+                "last_commit": "2025-08-17T19:46:53Z",
+                "owner": "dexsuite",
+                "repo": "dex-urdf",
+                "stars": 377
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dexterous Hands"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YuMi",
+              "description": "ABB URDF BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 52382779,
+                "language": "C++",
+                "last_commit": "2019-08-19T08:44:11Z",
+                "owner": "OrebroUniversity",
+                "repo": "yumi",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dual iiwa 14",
+              "description": "KUKA URDF, Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152971074,
+                "language": "Starlark",
+                "last_commit": "2026-08-17T10:14:23Z",
+                "owner": "RobotLocomotion",
+                "repo": "models",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ALOHA 2",
+              "description": "Google DeepMind URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dual-Arm Robots"
+        }
+      ],
+      "title": "Robot Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ManiSkill",
+          "description": "GPU-parallelized robotics simulator with dexterous manipulation tasks [github] [doc]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520357130,
+            "language": "Python",
+            "last_commit": "2026-08-04T16:38:18Z",
+            "owner": "mani-skill",
+            "repo": "ManiSkill",
+            "stars": 3256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isaac Lab",
+          "description": "NVIDIA Isaac Sim-based robot learning framework with dexterous manipulation support [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 567038244,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:45:53Z",
+            "owner": "isaac-sim",
+            "repo": "IsaacLab",
+            "stars": 7947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DexGraspNet",
+          "description": "Large-scale robotic dexterous grasp dataset for general objects [github] [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 604065109,
+            "language": "Python",
+            "last_commit": "2025-01-06T21:31:32Z",
+            "owner": "PKU-EPIC",
+            "repo": "DexGraspNet",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HumanoidBench",
+          "description": "Simulated humanoid benchmark for whole-body locomotion and manipulation [github] [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 774058576,
+            "language": "Python",
+            "last_commit": "2025-09-18T04:32:50Z",
+            "owner": "carlosferrazza",
+            "repo": "humanoid-bench",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiGym",
+          "description": "Demo-driven mobile bi-manual manipulation benchmark [github] [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1267255710,
+            "language": null,
+            "last_commit": "2026-05-27T14:25:28Z",
+            "owner": "chernyadev",
+            "repo": "bigym",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRUtopia",
+          "description": "General robots in a city at scale [github] [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822424534,
+            "language": "Python",
+            "last_commit": "2025-09-04T06:38:50Z",
+            "owner": "InternRobotics",
+            "repo": "InternUtopia",
+            "stars": 1285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Humanoid-Gym",
+          "description": "RL for humanoid robot with zero-shot sim2real transfer [github] [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766789360,
+            "language": "Python",
+            "last_commit": "2025-01-26T08:11:29Z",
+            "owner": "roboterax",
+            "repo": "humanoid-gym",
+            "stars": 2072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DexterousHands",
+          "description": "Bi-level multi-agent RL for dexterous manipulation [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 475676625,
+            "language": "Python",
+            "last_commit": "2025-02-18T13:47:57Z",
+            "owner": "PKU-MARL",
+            "repo": "DexterousHands",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DexGraspNet 2.0",
+          "description": "Dexterous grasping in cluttered scenes [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 904785204,
+            "language": "Python",
+            "last_commit": "2025-01-23T15:42:40Z",
+            "owner": "PKU-EPIC",
+            "repo": "DexGraspNet2",
+            "stars": 153
+          }
+        }
+      ],
+      "title": "Simulation Environments & Benchmarks"
+    },
+    {
+      "description": "Lerobot [LeRobot: State-of-the-art AI for real-world robotics]\nLEAP Hand [A Low-Cost Dexterous Hand for Robot Learning] [github]\nDOGlove [Low-Cost Haptic Force Feedback Glove]\nMuJoCo Playground [Sim-to-Real Platform for Diverse Robots]",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AgiBot-World [AgiBot World: A Large-scale Manipulation Platform",
+          "description": "] [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 900546855,
+            "language": "Python",
+            "last_commit": "2026-05-29T12:31:22Z",
+            "owner": "OpenDriveLab",
+            "repo": "AgiBot-World",
+            "stars": 3157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACE Teleop [Cross-Platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation",
+          "description": "] [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 837225223,
+            "language": "Python",
+            "last_commit": "2024-10-01T22:50:01Z",
+            "owner": "ACETeleop",
+            "repo": "ACETeleop",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GR00T N1 [Open Foundation Model for Generalist Humanoid Robots",
+          "description": "] [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946829547,
+            "language": "Python",
+            "last_commit": "2026-08-20T21:25:42Z",
+            "owner": "NVIDIA",
+            "repo": "Isaac-GR00T",
+            "stars": 7903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEHAVIOR Robot Suite [Streamlining Real-World Whole-Body Manipulation",
+          "description": "] [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945351481,
+            "language": "Python",
+            "last_commit": "2025-08-24T21:42:57Z",
+            "owner": "behavior-robot-suite",
+            "repo": "brs-algo",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HOMIE [Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit",
+          "description": "] [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935177929,
+            "language": "C++",
+            "last_commit": "2025-09-01T01:37:37Z",
+            "owner": "InternRobotics",
+            "repo": "OpenHomie",
+            "stars": 605
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "awesome-humanoid-robot-learning",
           "description": "Humanoid robot learning papers",
@@ -15,7 +639,7 @@
             "last_commit": "2026-07-08T13:48:28Z",
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2712
+            "stars": 2715
           }
         },
         {
@@ -90,7 +714,7 @@
             "last_commit": "2026-06-25T14:20:19Z",
             "owner": "aCodeDog",
             "repo": "awesome-loco-manipulation",
-            "stars": 321
+            "stars": 323
           }
         },
         {
@@ -143,7 +767,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7893
+                "stars": 7903
               }
             },
             {
@@ -158,7 +782,7 @@
                 "last_commit": "2025-01-26T08:11:29Z",
                 "owner": "roboterax",
                 "repo": "humanoid-gym",
-                "stars": 2073
+                "stars": 2072
               }
             },
             {
@@ -173,7 +797,7 @@
                 "last_commit": "2024-09-27T02:38:47Z",
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1300
+                "stars": 1301
               }
             },
             {
@@ -188,7 +812,7 @@
                 "last_commit": "2024-09-27T02:38:47Z",
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1300
+                "stars": 1301
               }
             },
             {
@@ -203,7 +827,7 @@
                 "last_commit": "2025-09-04T06:38:50Z",
                 "owner": "InternRobotics",
                 "repo": "InternUtopia",
-                "stars": 1284
+                "stars": 1285
               }
             },
             {
@@ -218,7 +842,7 @@
                 "last_commit": "2025-02-21T06:58:48Z",
                 "owner": "LeCAR-Lab",
                 "repo": "human2humanoid",
-                "stars": 1058
+                "stars": 1059
               }
             },
             {
@@ -278,7 +902,7 @@
                 "last_commit": "2025-09-01T01:37:37Z",
                 "owner": "InternRobotics",
                 "repo": "OpenHomie",
-                "stars": 604
+                "stars": 605
               }
             },
             {
@@ -435,7 +1059,7 @@
                 "last_commit": "2025-08-10T12:33:36Z",
                 "owner": "Psi-Robot",
                 "repo": "DexGraspVLA",
-                "stars": 560
+                "stars": 561
               }
             },
             {
@@ -480,7 +1104,7 @@
                 "last_commit": "2025-03-22T21:12:31Z",
                 "owner": "graspnet",
                 "repo": "AnyDexGrasp",
-                "stars": 220
+                "stars": 221
               }
             },
             {
@@ -540,7 +1164,7 @@
                 "last_commit": "2025-06-12T04:38:29Z",
                 "owner": "PKU-RL",
                 "repo": "CrossDex",
-                "stars": 82
+                "stars": 83
               }
             },
             {
@@ -659,6 +1283,28 @@
           "description": null,
           "node_type": "group",
           "title": "Bimanual Dexterous Multi-Fingered Manipulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2024.08] ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation [teleop] [project",
+              "description": "] [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 837225223,
+                "language": "Python",
+                "last_commit": "2024-10-01T22:50:01Z",
+                "owner": "ACETeleop",
+                "repo": "ACETeleop",
+                "stars": 136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Teleoperation & Human-to-Robot Retargeting"
         },
         {
           "children": [
@@ -844,7 +1490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:49:17.451Z",
+    "last_updated": "2026-08-24T14:34:34.644Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_id": 875257014,
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
