@@ -167,7 +167,7 @@
                 "last_commit": "2026-03-10T20:15:00Z",
                 "owner": "HybridRobotics",
                 "repo": "berkeley-humanoid-lite",
-                "stars": 1675
+                "stars": 1677
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-08-09T19:35:18Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3861
+                "stars": 3865
               }
             }
           ],
@@ -391,7 +391,7 @@
                 "last_commit": "2026-08-09T19:35:18Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3861
+                "stars": 3865
               }
             }
           ],
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3256
+            "stars": 3258
           }
         },
         {
@@ -429,10 +429,10 @@
             "archived": false,
             "id": 567038244,
             "language": "Python",
-            "last_commit": "2026-08-24T08:45:53Z",
+            "last_commit": "2026-08-25T01:37:11Z",
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 7947
+            "stars": 7952
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2025-09-18T04:32:50Z",
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
-            "stars": 785
+            "stars": 786
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-20T21:25:42Z",
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7903
+            "stars": 7906
           }
         },
         {
@@ -767,7 +767,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7903
+                "stars": 7906
               }
             },
             {
@@ -872,7 +872,7 @@
                 "last_commit": "2025-09-18T04:32:50Z",
                 "owner": "carlosferrazza",
                 "repo": "humanoid-bench",
-                "stars": 785
+                "stars": 786
               }
             },
             {
@@ -1350,7 +1350,7 @@
                 "last_commit": "2025-02-20T05:53:06Z",
                 "owner": "huangwl18",
                 "repo": "ReKep",
-                "stars": 982
+                "stars": 983
               }
             },
             {
@@ -1490,7 +1490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:34.644Z",
+    "last_updated": "2026-08-25T02:43:21.220Z",
     "original_repository": "Tsunami-kun/awesome-humanoid-manipulation",
     "original_repository_id": 875257014,
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
