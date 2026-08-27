@@ -142,7 +142,7 @@ RSS 2024 \[[2nd Workshop on Dexterous Manipulation: Design, Perception and Contr
 
 AgiBot-World \[[AgiBot World: A Large-scale Manipulation Platform](https://agibot-world.com/)] \[[github](https://github.com/OpenDriveLab/AgiBot-World) ⭐ 3,157 | 🐛 38 | 🌐 Python | 📅 2026-05-29]
 
-Lerobot \[[LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot) ⭐ 26,973 | 🐛 826 | 🌐 Python | 📅 2026-08-27]
+Lerobot \[[LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot) ⭐ 26,973 | 🐛 831 | 🌐 Python | 📅 2026-08-27]
 
 LEAP Hand \[[A Low-Cost Dexterous Hand for Robot Learning](https://leaphand.com/)] \[[github](https://github.com/leap-hand)]
 
@@ -172,13 +172,13 @@ dex-urdf: A collection of high-quality URDF models for dexterous hands and objec
 
 ### robot\_descriptions
 
-robot\_descriptions: Python package to load robot description files (URDF, MJCF) \[[pkg](https://github.com/robot-descriptions/robot_descriptions.py) ⭐ 820 | 🐛 6 | 🌐 Python | 📅 2026-08-04]
+robot\_descriptions: Python package to load robot description files (URDF, MJCF) \[[pkg](https://github.com/robot-descriptions/robot_descriptions.py) ⭐ 821 | 🐛 6 | 🌐 Python | 📅 2026-08-04]
 
 <a name="RelatedAwesomeLists" />
 
 ## Related Awesome Lists
 
-* [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) ⭐ 2,724 | 🐛 1 | 🌐 Python | 📅 2026-07-08 - Humanoid robot learning papers
+* [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) ⭐ 2,725 | 🐛 1 | 🌐 Python | 📅 2026-07-08 - Humanoid robot learning papers
 * [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,642 | 🐛 3 | 📅 2026-08-04 - URDF/MJCF robot models
 * [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) ⭐ 1,105 | 🐛 6 | 📅 2026-08-25 - Comprehensive robot manipulation papers
 * [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) ⭐ 942 | 🐛 2 | 📅 2026-03-16 - Humanoid robot learning
