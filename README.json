@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 287439935,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T04:55:01Z",
+                "open_issues": 91,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1542
+                "stars": 1542,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 703406051,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-07-25T10:20:22Z",
+                "open_issues": 59,
                 "owner": "unitreerobotics",
                 "repo": "unitree_rl_gym",
-                "stars": 3521
+                "stars": 3522,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 287439935,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T04:55:01Z",
+                "open_issues": 91,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1542
+                "stars": 1542,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 807539348,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-13T08:41:13Z",
+                "open_issues": 1,
                 "owner": "FFTAI",
                 "repo": "Wiki-GRx-Models",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 807539348,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-13T08:41:13Z",
+                "open_issues": 1,
                 "owner": "FFTAI",
                 "repo": "Wiki-GRx-Models",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -92,12 +117,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The reinforcement learning training code for AgiBot X1.",
+                "homepage": "https://www.zhiyuan-robot.com/products/X1",
                 "id": 877059051,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-23T04:00:36Z",
+                "open_issues": 10,
                 "owner": "AgibotTech",
                 "repo": "agibot_x1_train",
-                "stars": 1698
+                "stars": 1698,
+                "topics": [
+                  "open-source",
+                  "reinforcement-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -108,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.",
+                "homepage": null,
                 "id": 91389763,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-02T11:37:04Z",
+                "open_issues": 83,
                 "owner": "openai",
                 "repo": "roboschool",
-                "stars": 2169
+                "stars": 2169,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -124,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF and Meshes for the Agility Robotics Digit Robot ",
+                "homepage": null,
                 "id": 370631833,
                 "language": "Julia",
+                "license": null,
                 "last_commit": "2023-08-23T14:50:42Z",
+                "open_issues": 1,
                 "owner": "adubredu",
                 "repo": "DigitRobot.jl",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -140,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robot 3D model for Magicbot-Z1(URDF).",
+                "homepage": null,
                 "id": 1041107145,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-09T13:53:23Z",
+                "open_issues": 0,
                 "owner": "MagiclabRobotics",
                 "repo": "magicbot-z1_description",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -156,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF_model",
+                "homepage": null,
                 "id": 728913161,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-13T09:23:47Z",
+                "open_issues": 1,
                 "owner": "DeepRoboticsLab",
                 "repo": "deep_robotics_model",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -172,12 +226,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codebase for Berkeley Humanoid Lite",
+                "homepage": "https://lite.berkeley-humanoid.org/",
                 "id": 950286225,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-10T20:15:00Z",
+                "open_issues": 8,
                 "owner": "HybridRobotics",
                 "repo": "berkeley-humanoid-lite",
-                "stars": 1696
+                "stars": 1698,
+                "topics": [
+                  "berkeley-humanoids"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -188,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 846754567,
                 "language": "OpenSCAD",
+                "license": null,
                 "last_commit": "2024-08-23T22:13:52Z",
+                "open_issues": 0,
                 "owner": "HybridRobotics",
                 "repo": "berkeley_humanoid_description",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -204,12 +270,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3881
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -227,12 +301,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials for the ability hand API, including documentation, URDF, Matlab, & Python examples. ",
+                "homepage": "https://www.psyonic.io/",
                 "id": 468087319,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-18T17:29:32Z",
+                "open_issues": 10,
                 "owner": "psyonicinc",
                 "repo": "ability-hand-api",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "api",
+                  "docs",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -243,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
+                "homepage": null,
                 "id": 152971074,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2026-08-17T10:14:23Z",
+                "open_issues": 7,
                 "owner": "RobotLocomotion",
                 "repo": "models",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -259,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the bare minimum for communicating with the Shadow Hand from a remote computer: urdf models and messages.",
+                "homepage": null,
                 "id": 41478431,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-01-09T11:48:13Z",
+                "open_issues": 3,
                 "owner": "shadow-robot",
                 "repo": "sr_common",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -275,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Isaac Gym repository for LEAP Hand V1",
+                "homepage": "http://leaphand.com/",
                 "id": 690100134,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-18T18:48:48Z",
+                "open_issues": 1,
                 "owner": "leap-hand",
                 "repo": "LEAP_Hand_Sim",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -291,12 +389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 658943088,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-17T19:46:53Z",
+                "open_issues": 3,
                 "owner": "dexsuite",
                 "repo": "dex-urdf",
-                "stars": 379
+                "stars": 379,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -307,12 +410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains the description files for the Orcahand model (MJCF, URDF)",
+                "homepage": null,
                 "id": 977435538,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T09:37:02Z",
+                "open_issues": 6,
                 "owner": "orcahand",
                 "repo": "orcahand_description",
-                "stars": 396
+                "stars": 396,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -323,12 +431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robot model description package: URDF models, MuJoCo (MJCF) models, and meshes of Wuji Hand, including configuration files for ROS2 visualization (RViz).",
+                "homepage": null,
                 "id": 1104511512,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-27T06:16:52Z",
+                "open_issues": 1,
                 "owner": "wuji-technology",
                 "repo": "wuji-hand-description",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -339,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 658943088,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-17T19:46:53Z",
+                "open_issues": 3,
                 "owner": "dexsuite",
                 "repo": "dex-urdf",
-                "stars": 379
+                "stars": 379,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -355,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 658943088,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-17T19:46:53Z",
+                "open_issues": 3,
                 "owner": "dexsuite",
                 "repo": "dex-urdf",
-                "stars": 379
+                "stars": 379,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -378,12 +501,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ROS packages pertaining to the ABB YuMi (IRB 14000) robot",
+                "homepage": null,
                 "id": 52382779,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-08-19T08:44:11Z",
+                "open_issues": 7,
                 "owner": "OrebroUniversity",
                 "repo": "yumi",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -394,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
+                "homepage": null,
                 "id": 152971074,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2026-08-17T10:14:23Z",
+                "open_issues": 7,
                 "owner": "RobotLocomotion",
                 "repo": "models",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -410,12 +543,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3881
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -437,12 +578,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
+            "homepage": "https://maniskill.ai/",
             "id": 520357130,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
+            "open_issues": 134,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3267
+            "stars": 3269,
+            "topics": [
+              "embodied-ai",
+              "reinforcement-learning",
+              "robot-learning",
+              "robot-manipulation",
+              "robotics",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -453,12 +606,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+            "homepage": "https://isaac-sim.github.io/IsaacLab",
             "id": 567038244,
             "language": "Python",
-            "last_commit": "2026-08-28T11:21:14Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:39:56Z",
+            "open_issues": 510,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 7987
+            "stars": 7988,
+            "topics": [
+              "isaac-sim",
+              "omniverse-kit-extension",
+              "robot-learning",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -469,12 +632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 604065109,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-06T21:31:32Z",
+            "open_issues": 16,
             "owner": "PKU-EPIC",
             "repo": "DexGraspNet",
-            "stars": 466
+            "stars": 466,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -485,12 +653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 774058576,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-18T04:32:50Z",
+            "open_issues": 26,
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
-            "stars": 786
+            "stars": 786,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -501,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo-Driven Mobile Bi-Manual Manipulation Benchmark.",
+            "homepage": "https://chernyadev.github.io/bigym/",
             "id": 1267255710,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T14:25:28Z",
+            "open_issues": 0,
             "owner": "chernyadev",
             "repo": "bigym",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -517,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simulation platform for versatile Embodied AI research and developments.",
+            "homepage": "https://internrobotics.github.io/user_guide/internutopia/",
             "id": 822424534,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-04T06:38:50Z",
+            "open_issues": 29,
             "owner": "InternRobotics",
             "repo": "InternUtopia",
-            "stars": 1286
+            "stars": 1286,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -533,12 +716,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695",
+            "homepage": "https://sites.google.com/view/humanoid-gym/",
             "id": 766789360,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-26T08:11:29Z",
+            "open_issues": 24,
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2076
+            "stars": 2076,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "control-systems",
+              "humanoid-robot",
+              "locomotion",
+              "machine-learning",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -549,12 +745,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a library that provides dual dexterous hand manipulation tasks through Isaac Gym",
+            "homepage": "https://pku-marl.github.io/DexterousHands/",
             "id": 475676625,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-18T13:47:57Z",
+            "open_issues": 36,
             "owner": "PKU-MARL",
             "repo": "DexterousHands",
-            "stars": 1087
+            "stars": 1087,
+            "topics": [
+              "deep-reinforcement-learning",
+              "dexterous-robotic-hand",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -565,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CoRL 2024] DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes",
+            "homepage": null,
             "id": 904785204,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-23T15:42:40Z",
+            "open_issues": 9,
             "owner": "PKU-EPIC",
             "repo": "DexGraspNet2",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         }
@@ -587,12 +797,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS 2025 Best Paper Award Finalist & IEEE TRO 2026] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems",
+            "homepage": "https://opendrivelab.com/AgiBot-World/",
             "id": 900546855,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-29T12:31:22Z",
+            "open_issues": 38,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3157
+            "stars": 3158,
+            "topics": [
+              "pretraining-for-robotics",
+              "robotic-foundation-model",
+              "robotic-manipulation",
+              "vision-language-action-model"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -603,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation",
+            "homepage": null,
             "id": 837225223,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-01T22:50:01Z",
+            "open_issues": 1,
             "owner": "ACETeleop",
             "repo": "ACETeleop",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -619,12 +844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.",
+            "homepage": "https://developer.nvidia.com/isaac/gr00t",
             "id": 946829547,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T21:25:42Z",
+            "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7944
+            "stars": 7945,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -635,12 +865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Algorithm Codebase for the Paper \"BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities\"",
+            "homepage": null,
             "id": 945351481,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-24T21:42:57Z",
+            "open_issues": 5,
             "owner": "behavior-robot-suite",
             "repo": "brs-algo",
-            "stars": 174
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -651,12 +886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-sourced code for \"HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit\".",
+            "homepage": null,
             "id": 935177929,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-01T01:37:37Z",
+            "open_issues": 2,
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 607
+            "stars": 607,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         }
@@ -673,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Paper List for Humanoid Robot Learning.",
+            "homepage": null,
             "id": 881022384,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T13:48:28Z",
+            "open_issues": 1,
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2726
+            "stars": 2726,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -689,12 +934,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
+            "homepage": null,
             "id": 478093237,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-04T09:53:46Z",
+            "open_issues": 3,
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1642
+            "stars": 1644,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "biped",
+              "humanoid",
+              "legged-robots",
+              "mjcf",
+              "quadruped",
+              "robot",
+              "robotics",
+              "urdf",
+              "urdf-descriptions",
+              "urdf-models"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -705,12 +968,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.",
+            "homepage": "https://arxiv.org/abs/2510.10903",
             "id": 877135521,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T11:39:57Z",
+            "open_issues": 6,
             "owner": "BaiShuanghao",
             "repo": "Awesome-Robotics-Manipulation",
-            "stars": 1110
+            "stars": 1110,
+            "topics": [
+              "diffusion-policy",
+              "grasping",
+              "imitation-learning",
+              "input-modeling",
+              "latent-learning",
+              "policy-learning",
+              "robot-manipulation",
+              "vision-language-action-model"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -721,12 +998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Humanoid Robots Resources",
+            "homepage": null,
             "id": 743811280,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-16T11:43:56Z",
+            "open_issues": 2,
             "owner": "jonyzhang2023",
             "repo": "awesome-humanoid-learning",
-            "stars": 942
+            "stars": 942,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -737,12 +1019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tactile Sensing • Data Collection • IL/RL/VLA/WM • Manipulation • Simulation • Open Source",
+            "homepage": null,
             "id": 539774101,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-21T17:59:16Z",
+            "open_issues": 0,
             "owner": "linchangyi1",
             "repo": "Awesome-Touch",
-            "stars": 760
+            "stars": 761,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -753,12 +1040,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 843352611,
             "language": "CMake",
+            "license": null,
             "last_commit": "2026-06-25T14:20:19Z",
+            "open_issues": 0,
             "owner": "aCodeDog",
             "repo": "awesome-loco-manipulation",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -769,12 +1061,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of resources, papers, and tools on dexterous manipulation.",
+            "homepage": null,
             "id": 835669390,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-16T06:29:54Z",
+            "open_issues": 0,
             "owner": "kingchou007",
             "repo": "Dexterous-Manipulation",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "awesome-list",
+              "dexterous-manipulation",
+              "manipulation",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         },
@@ -785,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 999679738,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-16T07:36:05Z",
+            "open_issues": 0,
             "owner": "xzxzxzxz",
             "repo": "Awesome-What-Bimanual-Can-Do",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
         }
@@ -809,12 +1116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.",
+                "homepage": "https://developer.nvidia.com/isaac/gr00t",
                 "id": 946829547,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T21:25:42Z",
+                "open_issues": 322,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7944
+                "stars": 7945,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -825,12 +1137,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695",
+                "homepage": "https://sites.google.com/view/humanoid-gym/",
                 "id": 766789360,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-26T08:11:29Z",
+                "open_issues": 24,
                 "owner": "roboterax",
                 "repo": "humanoid-gym",
-                "stars": 2076
+                "stars": 2076,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "control-systems",
+                  "humanoid-robot",
+                  "locomotion",
+                  "machine-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -841,12 +1166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL 2024] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback",
+                "homepage": "https://robot-tv.github.io/",
                 "id": 791744964,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-27T02:38:47Z",
+                "open_issues": 41,
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1302
+                "stars": 1303,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -857,12 +1187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL 2024] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback",
+                "homepage": "https://robot-tv.github.io/",
                 "id": 791744964,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-27T02:38:47Z",
+                "open_issues": 41,
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1302
+                "stars": 1303,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -873,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simulation platform for versatile Embodied AI research and developments.",
+                "homepage": "https://internrobotics.github.io/user_guide/internutopia/",
                 "id": 822424534,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-04T06:38:50Z",
+                "open_issues": 29,
                 "owner": "InternRobotics",
                 "repo": "InternUtopia",
-                "stars": 1286
+                "stars": 1286,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -889,12 +1229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS 2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation.                    [CoRL 2024] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning",
+                "homepage": "https://omni.human2humanoid.com/",
                 "id": 864744635,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-21T06:58:48Z",
+                "open_issues": 38,
                 "owner": "LeCAR-Lab",
                 "repo": "human2humanoid",
-                "stars": 1060
+                "stars": 1060,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -905,12 +1250,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans",
+                "homepage": "https://humanoid-ai.github.io/",
                 "id": 814396494,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-01T22:28:54Z",
+                "open_issues": 0,
                 "owner": "MarkFzp",
                 "repo": "humanplus",
-                "stars": 850
+                "stars": 850,
+                "topics": [
+                  "humanoids",
+                  "imitation-learning",
+                  "reinforcement-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -921,12 +1276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 774058576,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-18T04:32:50Z",
+                "open_issues": 26,
                 "owner": "carlosferrazza",
                 "repo": "humanoid-bench",
-                "stars": 786
+                "stars": 786,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -937,12 +1297,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[CoRL '23] Dexterous piano playing with deep reinforcement learning.",
+                "homepage": "https://kzakka.com/robopianist/",
                 "id": 615527047,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-02T22:36:31Z",
+                "open_issues": 7,
                 "owner": "google-research",
                 "repo": "robopianist",
-                "stars": 736
+                "stars": 736,
+                "topics": [
+                  "bimanual",
+                  "dexterous-manipulation",
+                  "mujoco",
+                  "piano",
+                  "reinforcement-learning",
+                  "shadow-hand"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -953,12 +1325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-sourced code for \"HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit\".",
+                "homepage": null,
                 "id": 935177929,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-01T01:37:37Z",
+                "open_issues": 2,
                 "owner": "InternRobotics",
                 "repo": "OpenHomie",
-                "stars": 607
+                "stars": 607,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -969,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS 2025] Generalizable Humanoid Manipulation with 3D Diffusion Policies. Part 1: Train & Deploy of iDP3",
+                "homepage": null,
                 "id": 852313410,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-16T06:52:49Z",
+                "open_issues": 4,
                 "owner": "YanjieZe",
                 "repo": "Improved-3D-Diffusion-Policy",
-                "stars": 552
+                "stars": 552,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -985,12 +1367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[arXiv 2025] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation",
+                "homepage": null,
                 "id": 1060546981,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-03T02:21:50Z",
+                "open_issues": 1,
                 "owner": "visualmimic",
                 "repo": "VisualMimic",
-                "stars": 299
+                "stars": 299,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1001,12 +1388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RSS25] Official implementation of DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning",
+                "homepage": "https://demo-generation.github.io",
                 "id": 937019292,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-18T09:52:33Z",
+                "open_issues": 2,
                 "owner": "TEA-Lab",
                 "repo": "DemoGen",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1017,12 +1409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 881525509,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-10T23:38:16Z",
+                "open_issues": 2,
                 "owner": "SimarKareer",
                 "repo": "EgoMimic",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1033,12 +1430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Algorithm Codebase for the Paper \"BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities\"",
+                "homepage": null,
                 "id": 945351481,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-24T21:42:57Z",
+                "open_issues": 5,
                 "owner": "behavior-robot-suite",
                 "repo": "brs-algo",
-                "stars": 174
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1049,12 +1451,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2026] The official implementation of the paper \"Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control\"",
+                "homepage": "https://doi.org/10.48550/arXiv.2503.14637",
                 "id": 950499812,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-03T08:16:22Z",
+                "open_issues": 0,
                 "owner": "amathislab",
                 "repo": "Kinesis",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "emg",
+                  "motor-control",
+                  "musculoskeletal-models",
+                  "penalty",
+                  "proprioception",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1065,12 +1479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RSS'25] RoboPanoptes: The All-Seeing Robot with Whole-body Dexterity",
+                "homepage": null,
                 "id": 934461804,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-17T23:19:17Z",
+                "open_issues": 1,
                 "owner": "real-stanford",
                 "repo": "RoboPanoptes",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1081,12 +1500,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for the LABOR (LAnguage-model-based Bimanual ORchestration) Agent.",
+                "homepage": "https://labor-agent.github.io/",
                 "id": 779007891,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-23T22:55:34Z",
+                "open_issues": 1,
                 "owner": "Kchu",
                 "repo": "LABOR-Agent",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "bimanual-manipulation",
+                  "large-language-models",
+                  "robotics",
+                  "task-planning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1097,12 +1526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 708210322,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-26T17:04:40Z",
+                "open_issues": 1,
                 "owner": "wyngjf",
                 "repo": "bi-kvil-pub",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -1120,12 +1554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI'26 Oral] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping",
+                "homepage": "https://dexgraspvla.github.io/",
                 "id": 941025002,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-10T12:33:36Z",
+                "open_issues": 10,
                 "owner": "Psi-Robot",
                 "repo": "DexGraspVLA",
-                "stars": 563
+                "stars": 563,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1136,12 +1575,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video",
+                "homepage": "https://arxiv.org/abs/2505.11709",
                 "id": 1041036182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-20T20:41:20Z",
+                "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 378
+                "stars": 378,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1152,12 +1596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2025(Highlight) DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness",
+                "homepage": null,
                 "id": 941856556,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-22T12:19:03Z",
+                "open_issues": 3,
                 "owner": "4DVLab",
                 "repo": "DexGrasp-Anything",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1168,12 +1617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.graspnet.net/anydexgrasp",
                 "id": 897722649,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-22T21:12:31Z",
+                "open_issues": 8,
                 "owner": "graspnet",
                 "repo": "AnyDexGrasp",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1184,12 +1638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL 2024] DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes",
+                "homepage": null,
                 "id": 904785204,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-23T15:42:40Z",
+                "open_issues": 9,
                 "owner": "PKU-EPIC",
                 "repo": "DexGraspNet2",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1200,12 +1659,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State-of-the-art method for model-based dexterous manipulation",
+                "homepage": null,
                 "id": 841704041,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-20T17:00:32Z",
+                "open_issues": 2,
                 "owner": "asu-iris",
                 "repo": "Complementarity-Free-Dexterous-Manipulation",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "contact-rich-manipulation",
+                  "dexterous-manipulation",
+                  "dexterous-robotic-hand",
+                  "mpc"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1216,12 +1685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RSS 2025] Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy",
+                "homepage": null,
                 "id": 974588524,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-26T14:47:32Z",
+                "open_issues": 5,
                 "owner": "JYChen18",
                 "repo": "Dexonomy",
-                "stars": 134
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1232,12 +1706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Cross-Embodiment Dexterous Grasping with Reinforcement Learning",
+                "homepage": null,
                 "id": 943929871,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-12T04:38:29Z",
+                "open_issues": 3,
                 "owner": "PKU-RL",
                 "repo": "CrossDex",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1248,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025 Spotlight] DexVLG: Dexterous Vision-Language-Grasp Model at Scale",
+                "homepage": null,
                 "id": 1013164145,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-24T06:40:00Z",
+                "open_issues": 2,
                 "owner": "jiaweihe1996",
                 "repo": "DexVLG",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1264,12 +1748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dataloader for mocap dataset",
+                "homepage": null,
                 "id": 1080451714,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-21T11:50:11Z",
+                "open_issues": 1,
                 "owner": "DexRobot",
                 "repo": "dexcanvas",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1280,12 +1769,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation - IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2024 | DOI: 10.1109/Humanoids58906.2024.10769950",
+                "homepage": "https://david-s-martinez.github.io/DexGANGrasp.io/",
                 "id": 873066168,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-15T14:46:47Z",
+                "open_issues": 1,
                 "owner": "david-s-martinez",
                 "repo": "Dex-GAN-Grasp",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "artificial-intelligence",
+                  "chatgpt",
+                  "deep-learning",
+                  "dexgangrasp",
+                  "llm",
+                  "robotics",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1296,12 +1798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DexSim2Real 2 : Building Explicit World Model for Precise Articulated Object Dexterous Manipulation",
+                "homepage": null,
                 "id": 877129497,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-11T03:40:56Z",
+                "open_issues": 4,
                 "owner": "jiangtaoran",
                 "repo": "DexSim2Real2",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -1319,12 +1826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RSS 2024] \"DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation\" code repository",
+                "homepage": null,
                 "id": 769651170,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-10T20:07:00Z",
+                "open_issues": 11,
                 "owner": "j96w",
                 "repo": "DexCap",
-                "stars": 388
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1335,12 +1847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bimanual Dexterous Teleoperation with Real-Time Retargeting using VisionPro",
+                "homepage": "https://dingry.github.io/BunnyVisionPro/",
                 "id": 792569768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-18T13:18:22Z",
+                "open_issues": 8,
                 "owner": "Dingry",
                 "repo": "BunnyVisionPro",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1351,12 +1868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕊️ HATO: Learning Visuotactile Skills with Two Multifingered Hands [ICRA 2025]",
+                "homepage": "https://toruowo.github.io/hato/",
                 "id": 792093710,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-27T06:45:26Z",
+                "open_issues": 0,
                 "owner": "ToruOwO",
                 "repo": "hato",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -1374,12 +1896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation",
+                "homepage": null,
                 "id": 837225223,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-01T22:50:01Z",
+                "open_issues": 1,
                 "owner": "ACETeleop",
                 "repo": "ACETeleop",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -1397,12 +1924,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN",
+                "homepage": "https://mobile-aloha.github.io/",
                 "id": 700076185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-15T12:53:19Z",
+                "open_issues": 51,
                 "owner": "MarkFzp",
                 "repo": "act-plus-plus",
-                "stars": 3657
+                "stars": 3657,
+                "topics": [
+                  "imitation-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1413,12 +1948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation",
+                "homepage": null,
                 "id": 868861536,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-21T09:48:33Z",
+                "open_issues": 41,
                 "owner": "thu-ml",
                 "repo": "RoboticsDiffusionTransformer",
-                "stars": 1780
+                "stars": 1780,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1429,12 +1969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation",
+                "homepage": "https://rekep-robot.github.io/",
                 "id": 849306739,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-20T05:53:06Z",
+                "open_issues": 37,
                 "owner": "huangwl18",
                 "repo": "ReKep",
-                "stars": 983
+                "stars": 983,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1445,12 +1990,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for PerAct², a language-conditioned imitation learning agent designed for bimanual robotic manipulation using the RLBench environment. It includes dataset generation, training scripts, and evaluation tools for 6-DoF control of two robot arms across complex tasks.",
+                "homepage": "https://bimanual.github.io",
                 "id": 828000573,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-23T19:55:24Z",
+                "open_issues": 8,
                 "owner": "markusgrotz",
                 "repo": "peract_bimanual",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "ai",
+                  "bimanual",
+                  "embodied-ai",
+                  "ml",
+                  "robotic-manipulation",
+                  "robotics",
+                  "robots"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1461,12 +2019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2025] AnyBimanual: Transfering Unimanual Policy for General Bimanual Manipulation",
+                "homepage": "https://anybimanual.github.io/",
                 "id": 898429231,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-26T02:31:27Z",
+                "open_issues": 2,
                 "owner": "Tengbo-Yu",
                 "repo": "AnyBimanual",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1477,12 +2040,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation (CoRL 2024)",
+                "homepage": "https://voxact-b.github.io/",
                 "id": 854312232,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-25T05:15:36Z",
+                "open_issues": 2,
                 "owner": "VoxAct-B",
                 "repo": "voxactb",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "bimanual-manipulation",
+                  "robotic-manipulation",
+                  "robotics",
+                  "vision-language-model",
+                  "voxel-representation"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1493,12 +2067,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of LLM+MAP: Bimanual Robot Task Planning using Large Language Models (LLMs) and Planning Domain Definition Language (PDDL). Codes and files are coming soon.",
+                "homepage": "http://arxiv.org/abs/2503.17309",
                 "id": 942336391,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-03-24T09:17:03Z",
+                "open_issues": 1,
                 "owner": "Kchu",
                 "repo": "LLM-MAP",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "bimanual",
+                  "bimanual-manipulation",
+                  "multi-agent",
+                  "pddl",
+                  "robotics",
+                  "task-planning"
+                ]
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -1516,12 +2102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'24] \"AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents\"",
+                "homepage": "https://anyskill.github.io/",
                 "id": 702089498,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-17T07:42:05Z",
+                "open_issues": 3,
                 "owner": "jiemingcui",
                 "repo": "anyskill",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1532,12 +2123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of \"CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement\".",
+                "homepage": null,
                 "id": 808658595,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-01T04:24:28Z",
+                "open_issues": 5,
                 "owner": "leolyliu",
                 "repo": "CORE4D-Instructions",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1548,12 +2144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Dataset Toolbox of the paper \"[CVPR 2023]NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions\" and \"[CVPR2024]HOI-M3: Capture Multiple Humans and Objects Interaction within Contextual Environment\"",
+                "homepage": "https://juzezhang.github.io/NeuralDome/",
                 "id": 733472634,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-12T21:29:55Z",
+                "open_issues": 10,
                 "owner": "Juzezhang",
                 "repo": "NeuralDome_Toolbox",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1564,12 +2165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"SceneMI: Motion In-betweening for Modeling Human-Scene Interaction (ICCV 2025)\"",
+                "homepage": "https://inwoohwang.me/SceneMI/",
                 "id": 1039163687,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-17T20:42:16Z",
+                "open_issues": 3,
                 "owner": "woo0818",
                 "repo": "SceneMI",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             }
@@ -1583,15 +2189,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:20:09.590Z",
+    "last_updated": "2026-08-29T04:52:58.336Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation.",
+      "homepage": null,
       "id": 875257014,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-11T06:02:12Z",
+      "open_issues": 1,
       "owner": "Tsunami-kun",
       "repo": "awesome-humanoid-manipulation",
-      "stars": 157
+      "stars": 157,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bimanual-manipulation",
+        "dexterous-grasping",
+        "dexterous-hand",
+        "dexterous-manipulation",
+        "humanlike-manipulation",
+        "humanoid-manipulation",
+        "humanoid-robot",
+        "imitation-learning",
+        "in-hand-manipulation",
+        "manipulation",
+        "reinforcement-learning",
+        "robot",
+        "robot-learning",
+        "robot-manipulation",
+        "sim-to-real",
+        "teleoperation"
+      ]
     },
     "original_repository_sha": "fd51679bc3e166fa9973a486eb8a7a1100b340e5",
     "enhanced_repository": "enhansome/enhansome-humanoid-manipulation",
