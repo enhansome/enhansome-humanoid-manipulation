@@ -279,7 +279,7 @@
                 "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3886,
+                "stars": 3887,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -552,7 +552,7 @@
                 "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3886,
+                "stars": 3887,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -611,11 +611,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T03:39:56Z",
+            "last_commit": "2026-08-29T08:11:54Z",
             "open_issues": 510,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 7988,
+            "stars": 7991,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -853,7 +853,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7945,
+            "stars": 7948,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1125,7 +1125,7 @@
                 "open_issues": 322,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7945,
+                "stars": 7948,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1835,7 +1835,7 @@
                 "open_issues": 11,
                 "owner": "j96w",
                 "repo": "DexCap",
-                "stars": 388,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1957,7 +1957,7 @@
                 "open_issues": 41,
                 "owner": "thu-ml",
                 "repo": "RoboticsDiffusionTransformer",
-                "stars": 1780,
+                "stars": 1781,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:58.336Z",
+    "last_updated": "2026-08-29T08:16:50.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation.",
