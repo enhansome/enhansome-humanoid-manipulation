@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1556,
+                "stars": 1559,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -42,7 +42,7 @@
                 "open_issues": 60,
                 "owner": "unitreerobotics",
                 "repo": "unitree_rl_gym",
-                "stars": 3531,
+                "stars": 3536,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -63,7 +63,7 @@
                 "open_issues": 91,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1556,
+                "stars": 1559,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -126,7 +126,7 @@
                 "open_issues": 10,
                 "owner": "AgibotTech",
                 "repo": "agibot_x1_train",
-                "stars": 1697,
+                "stars": 1696,
                 "topics": [
                   "open-source",
                   "reinforcement-learning",
@@ -235,7 +235,7 @@
                 "open_issues": 8,
                 "owner": "HybridRobotics",
                 "repo": "berkeley-humanoid-lite",
-                "stars": 1829,
+                "stars": 1835,
                 "topics": [
                   "berkeley-humanoids"
                 ]
@@ -279,7 +279,7 @@
                 "open_issues": 42,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3948,
+                "stars": 3957,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -430,7 +430,7 @@
               "description": "Wuji Technology URDF & MJCF ✖️ ✔️ ✔️ ✔️",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Robot model description package: URDF models, MuJoCo (MJCF) models, and meshes of Wuji Hand, including configuration files for ROS2 visualization (RViz).",
                 "homepage": null,
                 "id": 1104511512,
@@ -552,7 +552,7 @@
                 "open_issues": 42,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3948,
+                "stars": 3957,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -584,10 +584,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 135,
+            "open_issues": 134,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3303,
+            "stars": 3307,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -611,11 +611,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T05:34:06Z",
-            "open_issues": 505,
+            "last_commit": "2026-09-10T06:12:43Z",
+            "open_issues": 502,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8084,
+            "stars": 8087,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -704,7 +704,7 @@
             "open_issues": 29,
             "owner": "InternRobotics",
             "repo": "InternUtopia",
-            "stars": 1287,
+            "stars": 1288,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -754,7 +754,7 @@
             "open_issues": 36,
             "owner": "PKU-MARL",
             "repo": "DexterousHands",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "deep-reinforcement-learning",
               "dexterous-robotic-hand",
@@ -779,7 +779,7 @@
             "open_issues": 9,
             "owner": "PKU-EPIC",
             "repo": "DexGraspNet2",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -806,7 +806,7 @@
             "open_issues": 38,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3173,
+            "stars": 3174,
             "topics": [
               "pretraining-for-robotics",
               "robotic-foundation-model",
@@ -850,10 +850,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-20T21:25:42Z",
-            "open_issues": 332,
+            "open_issues": 331,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 8032,
+            "stars": 8035,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -895,7 +895,7 @@
             "open_issues": 1,
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 611,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -977,7 +977,7 @@
             "open_issues": 6,
             "owner": "BaiShuanghao",
             "repo": "Awesome-Robotics-Manipulation",
-            "stars": 1135,
+            "stars": 1134,
             "topics": [
               "diffusion-policy",
               "grasping",
@@ -1007,7 +1007,7 @@
             "open_issues": 2,
             "owner": "jonyzhang2023",
             "repo": "awesome-humanoid-learning",
-            "stars": 944,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 0,
             "owner": "linchangyi1",
             "repo": "Awesome-Touch",
-            "stars": 769,
+            "stars": 768,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1122,10 +1122,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-20T21:25:42Z",
-                "open_issues": 332,
+                "open_issues": 331,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8032,
+                "stars": 8035,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1175,7 +1175,7 @@
                 "open_issues": 41,
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1196,7 +1196,7 @@
                 "open_issues": 41,
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1217,7 +1217,7 @@
                 "open_issues": 29,
                 "owner": "InternRobotics",
                 "repo": "InternUtopia",
-                "stars": 1287,
+                "stars": 1288,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1238,7 +1238,7 @@
                 "open_issues": 38,
                 "owner": "LeCAR-Lab",
                 "repo": "human2humanoid",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1334,7 +1334,7 @@
                 "open_issues": 1,
                 "owner": "InternRobotics",
                 "repo": "OpenHomie",
-                "stars": 611,
+                "stars": 612,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1626,7 +1626,7 @@
                 "open_issues": 8,
                 "owner": "graspnet",
                 "repo": "AnyDexGrasp",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1647,7 +1647,28 @@
                 "open_issues": 9,
                 "owner": "PKU-EPIC",
                 "repo": "DexGraspNet2",
-                "stars": 157,
+                "stars": 158,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:20:09.590Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[2025.04] Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy [optimization] [grasping] [paper",
+              "description": "] [project] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[RSS 2025] Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy",
+                "homepage": null,
+                "id": 974588524,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-26T14:47:32Z",
+                "open_issues": 5,
+                "owner": "JYChen18",
+                "repo": "Dexonomy",
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1675,27 +1696,6 @@
                   "dexterous-robotic-hand",
                   "mpc"
                 ]
-              },
-              "first_seen": "2026-08-28T13:20:09.590Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[2025.04] Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy [optimization] [grasping] [paper",
-              "description": "] [project] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[RSS 2025] Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy",
-                "homepage": null,
-                "id": 974588524,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-26T14:47:32Z",
-                "open_issues": 5,
-                "owner": "JYChen18",
-                "repo": "Dexonomy",
-                "stars": 142,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
             },
@@ -1877,7 +1877,7 @@
                 "open_issues": 0,
                 "owner": "ToruOwO",
                 "repo": "hato",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1930,7 +1930,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-15T12:53:19Z",
-                "open_issues": 52,
+                "open_issues": 51,
                 "owner": "MarkFzp",
                 "repo": "act-plus-plus",
                 "stars": 3662,
@@ -1954,7 +1954,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T09:48:33Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "thu-ml",
                 "repo": "RoboticsDiffusionTransformer",
                 "stars": 1792,
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:37:09.371Z",
+    "last_updated": "2026-09-10T06:36:32.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation.",
