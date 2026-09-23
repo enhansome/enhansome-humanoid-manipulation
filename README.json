@@ -42,7 +42,7 @@
                 "open_issues": 60,
                 "owner": "unitreerobotics",
                 "repo": "unitree_rl_gym",
-                "stars": 3564,
+                "stars": 3565,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -151,7 +151,7 @@
                 "open_issues": 83,
                 "owner": "openai",
                 "repo": "roboschool",
-                "stars": 2169,
+                "stars": 2170,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -210,7 +210,7 @@
                 "id": 728913161,
                 "language": null,
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T08:12:07Z",
+                "last_commit": "2026-09-23T05:33:04Z",
                 "open_issues": 1,
                 "owner": "DeepRoboticsLab",
                 "repo": "deep_robotics_model",
@@ -235,7 +235,7 @@
                 "open_issues": 8,
                 "owner": "HybridRobotics",
                 "repo": "berkeley-humanoid-lite",
-                "stars": 1871,
+                "stars": 1875,
                 "topics": [
                   "berkeley-humanoids"
                 ]
@@ -275,11 +275,11 @@
                 "id": 532854029,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T21:35:56Z",
+                "last_commit": "2026-09-23T04:03:47Z",
                 "open_issues": 49,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4096,
+                "stars": 4102,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -548,11 +548,11 @@
                 "id": 532854029,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T21:35:56Z",
+                "last_commit": "2026-09-23T04:03:47Z",
                 "open_issues": 49,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4096,
+                "stars": 4102,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -584,10 +584,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 135,
+            "open_issues": 138,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3350,
+            "stars": 3352,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -611,11 +611,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T05:40:09Z",
-            "open_issues": 460,
+            "last_commit": "2026-09-23T05:22:32Z",
+            "open_issues": 429,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8192,
+            "stars": 8202,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -662,7 +662,7 @@
             "open_issues": 26,
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
-            "stars": 799,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -704,7 +704,7 @@
             "open_issues": 29,
             "owner": "InternRobotics",
             "repo": "InternUtopia",
-            "stars": 1292,
+            "stars": 1293,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -806,7 +806,7 @@
             "open_issues": 38,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3190,
+            "stars": 3191,
             "topics": [
               "pretraining-for-robotics",
               "robotic-foundation-model",
@@ -850,10 +850,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-20T21:25:42Z",
-            "open_issues": 332,
+            "open_issues": 335,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 8108,
+            "stars": 8117,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -922,7 +922,7 @@
             "open_issues": 1,
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2776,
+            "stars": 2779,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -943,7 +943,7 @@
             "open_issues": 3,
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1662,
+            "stars": 1663,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1028,7 +1028,7 @@
             "open_issues": 0,
             "owner": "linchangyi1",
             "repo": "Awesome-Touch",
-            "stars": 774,
+            "stars": 776,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1049,7 +1049,7 @@
             "open_issues": 0,
             "owner": "aCodeDog",
             "repo": "awesome-loco-manipulation",
-            "stars": 332,
+            "stars": 333,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1122,10 +1122,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-20T21:25:42Z",
-                "open_issues": 332,
+                "open_issues": 335,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8108,
+                "stars": 8117,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1175,7 +1175,7 @@
                 "open_issues": 41,
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1196,7 +1196,7 @@
                 "open_issues": 41,
                 "owner": "OpenTeleVision",
                 "repo": "TeleVision",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1217,7 +1217,7 @@
                 "open_issues": 29,
                 "owner": "InternRobotics",
                 "repo": "InternUtopia",
-                "stars": 1292,
+                "stars": 1293,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1285,7 +1285,7 @@
                 "open_issues": 26,
                 "owner": "carlosferrazza",
                 "repo": "humanoid-bench",
-                "stars": 799,
+                "stars": 800,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1605,7 +1605,7 @@
                 "open_issues": 3,
                 "owner": "4DVLab",
                 "repo": "DexGrasp-Anything",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1689,7 +1689,7 @@
                 "open_issues": 2,
                 "owner": "asu-iris",
                 "repo": "Complementarity-Free-Dexterous-Manipulation",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "contact-rich-manipulation",
                   "dexterous-manipulation",
@@ -1835,7 +1835,7 @@
                 "open_issues": 11,
                 "owner": "j96w",
                 "repo": "DexCap",
-                "stars": 417,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:44:35.215Z",
+    "last_updated": "2026-09-23T06:36:10.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation.",
