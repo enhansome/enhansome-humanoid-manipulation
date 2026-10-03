@@ -611,8 +611,8 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T03:34:54Z",
-            "open_issues": 360,
+            "last_commit": "2026-10-03T05:26:18Z",
+            "open_issues": 359,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
             "stars": 8269,
@@ -853,7 +853,7 @@
             "open_issues": 338,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 8152,
+            "stars": 8153,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1125,7 +1125,7 @@
                 "open_issues": 338,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8152,
+                "stars": 8153,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:50.557Z",
+    "last_updated": "2026-10-03T07:02:43.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation.",
