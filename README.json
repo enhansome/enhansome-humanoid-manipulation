@@ -42,7 +42,7 @@
                 "open_issues": 60,
                 "owner": "unitreerobotics",
                 "repo": "unitree_rl_gym",
-                "stars": 3582,
+                "stars": 3583,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -235,7 +235,7 @@
                 "open_issues": 8,
                 "owner": "HybridRobotics",
                 "repo": "berkeley-humanoid-lite",
-                "stars": 1942,
+                "stars": 1953,
                 "topics": [
                   "berkeley-humanoids"
                 ]
@@ -587,7 +587,7 @@
             "open_issues": 140,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3372,
+            "stars": 3374,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -611,11 +611,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T05:26:18Z",
-            "open_issues": 359,
+            "last_commit": "2026-10-04T06:55:03Z",
+            "open_issues": 357,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8269,
+            "stars": 8275,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -806,7 +806,7 @@
             "open_issues": 38,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3199,
+            "stars": 3201,
             "topics": [
               "pretraining-for-robotics",
               "robotic-foundation-model",
@@ -853,7 +853,7 @@
             "open_issues": 338,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 8153,
+            "stars": 8156,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -895,7 +895,7 @@
             "open_issues": 1,
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 619,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -974,10 +974,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-19T04:31:40Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "BaiShuanghao",
             "repo": "Awesome-Robotics-Manipulation",
-            "stars": 1155,
+            "stars": 1157,
             "topics": [
               "diffusion-policy",
               "grasping",
@@ -1125,7 +1125,7 @@
                 "open_issues": 338,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8153,
+                "stars": 8156,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1334,7 +1334,7 @@
                 "open_issues": 1,
                 "owner": "InternRobotics",
                 "repo": "OpenHomie",
-                "stars": 619,
+                "stars": 620,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:02:43.407Z",
+    "last_updated": "2026-10-04T07:21:19.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation.",
