@@ -58,15 +58,15 @@ A curated list of awesome papers and resources on **humanoid manipulation**, **d
 | G1                     | Unitree          | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) ⭐ 1,596 \| 🐛 94 \| 🌐 C++ \| 📅 2026-09-30                                                                                                                                                          | BSD-3-Clause | ✔️     | ✔️       | ✔️         |
 | GR-1                   | FFTAI (Fourier)  | [URDF](https://github.com/FFTAI/Wiki-GRx-Models/tree/master/GRX/GR1) ⭐ 44 \| 🐛 1 \| 🌐 Python \| 📅 2025-11-13, [MJCF](https://github.com/FFTAI/wiki-mjcf/) ⭐ 86 \| 🐛 1 \| 🌐 Python \| 📅 2025-07-30                                                                                              | GPL-3.0      | ✔️     | ✔️       | ✔️         |
 | GR-2                   | FFTAI (Fourier)  | [URDF](https://github.com/FFTAI/Wiki-GRx-Models) ⭐ 44 \| 🐛 1 \| 🌐 Python \| 📅 2025-11-13                                                                                                                                                                                                          | GPL-3.0      | ✔️     | ✔️       | ✔️         |
-| AgiBot X1              | AgiBot           | [URDF & MJCF](https://github.com/AgibotTech/agibot_x1_train) ⭐ 1,702 \| 🐛 11 \| 🌐 Python \| 📅 2024-10-23                                                                                                                                                                                          | Apache-2.0   | ✔️     | ✔️       | ✔️         |
+| AgiBot X1              | AgiBot           | [URDF & MJCF](https://github.com/AgibotTech/agibot_x1_train) ⭐ 1,703 \| 🐛 11 \| 🌐 Python \| 📅 2024-10-23                                                                                                                                                                                          | Apache-2.0   | ✔️     | ✔️       | ✔️         |
 | Atlas v4               | Boston Dynamics  | [URDF](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot/atlas_description) ⚠️ Archived                                                                                                                                                                                       | MIT          | ✔️     | ✔️       | ✔️         |
 | Digit                  | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl/tree/main/urdf) ⭐ 43 \| 🐛 1 \| 🌐 Julia \| 📅 2023-08-23                                                                                                                                                                                           | ✖️           | ✔️     | ✔️       | ✔️         |
 | Magicbot Z1            | Magiclab         | [URDF](https://github.com/MagiclabRobotics/magicbot-z1_description) ⭐ 6 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-09                                                                                                                                                                                        | ✖️           | ✔️     | ✔️       | ✔️         |
 | Deep Robotics          | Deep Robotics    | [URDF](https://github.com/DeepRoboticsLab/URDF_model) ⭐ 81 \| 🐛 1 \| 📅 2026-09-28                                                                                                                                                                                                                  | ✖️           | ✔️     | ✔️       | ✔️         |
-| Berkeley Humanoid Lite | UC Berkeley      | [URDF, MJCF, USD](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) ⭐ 1,982 \| 🐛 8 \| 🌐 Python \| 📅 2026-03-10                                                                                                                                                                            | Open Source  | ✔️     | ✔️       | ✔️         |
+| Berkeley Humanoid Lite | UC Berkeley      | [URDF, MJCF, USD](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) ⭐ 1,985 \| 🐛 8 \| 🌐 Python \| 📅 2026-03-10                                                                                                                                                                            | Open Source  | ✔️     | ✔️       | ✔️         |
 | Berkeley Humanoid      | UC Berkeley      | [URDF](https://github.com/HybridRobotics/berkeley_humanoid_description) ⭐ 51 \| 🐛 0 \| 🌐 OpenSCAD \| 📅 2024-08-23                                                                                                                                                                                 | Open Source  | ✔️     | ✔️       | ✔️         |
 
-Also see: [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,209 | 🐛 53 | 🌐 Python | 📅 2026-10-15 for high-quality MJCF models, [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,683 | 🐛 2 | 📅 2026-10-11 for a comprehensive list.
+Also see: [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,217 | 🐛 53 | 🌐 Python | 📅 2026-10-15 for high-quality MJCF models, [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,684 | 🐛 2 | 📅 2026-10-11 for a comprehensive list.
 
 <a name="DexterousHands" />
 
@@ -75,8 +75,8 @@ Also see: [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie
 | Name         | Maker            | Formats                                                                                                                                                                                                                                                                             | License     | Meshes | Inertias | Collisions |
 | ------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------ | -------- | ---------- |
 | Ability Hand | PSYONIC, Inc.    | [MJCF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF/mujoco) ⭐ 51 \| 🐛 10 \| 🌐 Python \| 📅 2026-05-18, [URDF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF) ⭐ 51 \| 🐛 10 \| 🌐 Python \| 📅 2026-05-18                                     | ✖️          | ✔️     | ✔️       | ✖️         |
-| Allegro Hand | Wonik Robotics   | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf) ⭐ 58 \| 🐛 7 \| 🌐 Starlark \| 📅 2026-10-01, [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) ⭐ 4,209 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-15        | BSD         | ✔️     | ✔️       | ✔️         |
-| Shadow Hand  | Shadow Robot     | [URDF](https://github.com/shadow-robot/sr_common/tree/noetic-devel/sr_description/mujoco_models/urdfs) ⭐ 36 \| 🐛 3 \| 🌐 Python \| 📅 2025-01-09, [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_hand) ⭐ 4,209 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-15 | BSD         | ✔️     | ✔️       | ✔️         |
+| Allegro Hand | Wonik Robotics   | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf) ⭐ 58 \| 🐛 7 \| 🌐 Starlark \| 📅 2026-10-01, [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) ⭐ 4,217 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-15        | BSD         | ✔️     | ✔️       | ✔️         |
+| Shadow Hand  | Shadow Robot     | [URDF](https://github.com/shadow-robot/sr_common/tree/noetic-devel/sr_description/mujoco_models/urdfs) ⭐ 36 \| 🐛 3 \| 🌐 Python \| 📅 2025-01-09, [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/shadow_hand) ⭐ 4,217 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-15 | BSD         | ✔️     | ✔️       | ✔️         |
 | LEAP Hand    | Carnegie Mellon  | [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/tree/main/assets) ⭐ 211 \| 🐛 1 \| 🌐 Python \| 📅 2024-05-18                                                                                                                                                                     | MIT         | ✔️     | ✔️       | ✔️         |
 | Inspire Hand | Inspire-Robots   | [URDF](https://github.com/dexsuite/dex-urdf) ⭐ 385 \| 🐛 3 \| 🌐 Python \| 📅 2025-08-17                                                                                                                                                                                            | ✖️          | ✔️     | ✔️       | ✔️         |
 | ORCA Hand    | ORCA Robotics    | [URDF & MJCF](https://github.com/orcahand/orcahand_description) ⭐ 407 \| 🐛 6 \| 🌐 Python \| 📅 2026-10-15                                                                                                                                                                         | ✖️          | ✔️     | ✔️       | ✔️         |
@@ -94,7 +94,7 @@ Also see: [dex-urdf](https://github.com/dexsuite/dex-urdf) ⭐ 385 | 🐛 3 | �
 | ------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------- | -------- | ---------- |
 | YuMi         | ABB             | [URDF](https://github.com/OrebroUniversity/yumi/tree/master/yumi_description) ⚠️ Archived                                                                                                                                                                                                                                                         | BSD-2-Clause | ✔️      | ✔️       | ✔️         |
 | Dual iiwa 14 | KUKA            | [URDF](https://github.com/RobotLocomotion/models/blob/master/iiwa_description/urdf/dual_iiwa14_polytope_collision.urdf) ⭐ 58 \| 🐛 7 \| 🌐 Starlark \| 📅 2026-10-01, [Xacro](https://github.com/RobotLocomotion/models/blob/master/iiwa_description/urdf/dual_iiwa14_polytope_collision.urdf.xacro) ⭐ 58 \| 🐛 7 \| 🌐 Starlark \| 📅 2026-10-01 | BSD-3-Clause | ✔️      | ✔️       | ✔️         |
-| ALOHA 2      | Google DeepMind | [URDF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/google_robot) ⭐ 4,209 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-15                                                                                                                                                                                                                 | Apache-2.0   | ✔️      | ✔️       | ✔️         |
+| ALOHA 2      | Google DeepMind | [URDF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/google_robot) ⭐ 4,217 \| 🐛 53 \| 🌐 Python \| 📅 2026-10-15                                                                                                                                                                                                                 | Apache-2.0   | ✔️      | ✔️       | ✔️         |
 
 <a name="SimulationEnvironments" />
 
@@ -102,13 +102,13 @@ Also see: [dex-urdf](https://github.com/dexsuite/dex-urdf) ⭐ 385 | 🐛 3 | �
 
 | Name              | Description                                                                         | Link                                                                                                                                                    |
 | ----------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ManiSkill         | GPU-parallelized robotics simulator with dexterous manipulation tasks               | \[[github](https://github.com/haosulab/ManiSkill) ⭐ 3,428 \| 🐛 149 \| 🌐 Python \| 📅 2026-08-04] \[[doc](https://www.maniskill.ai/)]                  |
-| Isaac Lab         | NVIDIA Isaac Sim-based robot learning framework with dexterous manipulation support | \[[github](https://github.com/isaac-sim/IsaacLab) ⭐ 8,375 \| 🐛 404 \| 🌐 Python \| 📅 2026-10-18]                                                      |
+| ManiSkill         | GPU-parallelized robotics simulator with dexterous manipulation tasks               | \[[github](https://github.com/haosulab/ManiSkill) ⭐ 3,429 \| 🐛 149 \| 🌐 Python \| 📅 2026-08-04] \[[doc](https://www.maniskill.ai/)]                  |
+| Isaac Lab         | NVIDIA Isaac Sim-based robot learning framework with dexterous manipulation support | \[[github](https://github.com/isaac-sim/IsaacLab) ⭐ 8,378 \| 🐛 405 \| 🌐 Python \| 📅 2026-10-19]                                                      |
 | DexGraspNet       | Large-scale robotic dexterous grasp dataset for general objects                     | \[[github](https://github.com/PKU-EPIC/DexGraspNet) ⭐ 477 \| 🐛 16 \| 🌐 Python \| 📅 2025-01-06] \[[paper](https://arxiv.org/abs/2210.02697)]          |
-| HumanoidBench     | Simulated humanoid benchmark for whole-body locomotion and manipulation             | \[[github](https://github.com/carlosferrazza/humanoid-bench) ⭐ 802 \| 🐛 26 \| 🌐 Python \| 📅 2025-09-18] \[[paper](https://arxiv.org/abs/2403.10506)] |
+| HumanoidBench     | Simulated humanoid benchmark for whole-body locomotion and manipulation             | \[[github](https://github.com/carlosferrazza/humanoid-bench) ⭐ 803 \| 🐛 26 \| 🌐 Python \| 📅 2025-09-18] \[[paper](https://arxiv.org/abs/2403.10506)] |
 | BiGym             | Demo-driven mobile bi-manual manipulation benchmark                                 | \[[github](https://github.com/chernyadev/bigym) ⭐ 1 \| 🐛 0 \| 📅 2026-05-27] \[[paper](https://arxiv.org/abs/2407.07788)]                              |
 | GRUtopia          | General robots in a city at scale                                                   | \[[github](https://github.com/OpenRobotLab/GRUtopia) ⭐ 1,301 \| 🐛 29 \| 🌐 Python \| 📅 2025-09-04] \[[paper](https://arxiv.org/abs/2407.10943)]       |
-| Humanoid-Gym      | RL for humanoid robot with zero-shot sim2real transfer                              | \[[github](https://github.com/roboterax/humanoid-gym) ⭐ 2,103 \| 🐛 24 \| 🌐 Python \| 📅 2025-01-26] \[[paper](https://arxiv.org/abs/2404.05695)]      |
+| Humanoid-Gym      | RL for humanoid robot with zero-shot sim2real transfer                              | \[[github](https://github.com/roboterax/humanoid-gym) ⭐ 2,104 \| 🐛 24 \| 🌐 Python \| 📅 2025-01-26] \[[paper](https://arxiv.org/abs/2404.05695)]      |
 | DexterousHands    | Bi-level multi-agent RL for dexterous manipulation                                  | \[[github](https://github.com/PKU-MARL/DexterousHands) ⭐ 1,117 \| 🐛 36 \| 🌐 Python \| 📅 2025-02-18]                                                  |
 | MuJoCo Playground | Google DeepMind sim-to-real platform for humanoids, hands, quadrupeds               | \[[website](https://playground.mujoco.org/)]                                                                                                            |
 | RoboCasa          | Large-scale household task simulation with 120+ kitchen scenes                      | \[[website](https://robocasa.ai/)]                                                                                                                      |
@@ -142,7 +142,7 @@ RSS 2024 \[[2nd Workshop on Dexterous Manipulation: Design, Perception and Contr
 
 AgiBot-World \[[AgiBot World: A Large-scale Manipulation Platform](https://agibot-world.com/)] \[[github](https://github.com/OpenDriveLab/AgiBot-World) ⭐ 3,206 | 🐛 38 | 🌐 Python | 📅 2026-05-29]
 
-Lerobot \[[LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot) ⭐ 28,259 | 🐛 1,028 | 🌐 Python | 📅 2026-10-18]
+Lerobot \[[LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot) ⭐ 28,280 | 🐛 1,032 | 🌐 Python | 📅 2026-10-19]
 
 LEAP Hand \[[A Low-Cost Dexterous Hand for Robot Learning](https://leaphand.com/)] \[[github](https://github.com/leap-hand)]
 
@@ -150,7 +150,7 @@ DOGlove \[[Low-Cost Haptic Force Feedback Glove](https://arxiv.org/abs/2502.0773
 
 ACE Teleop \[[Cross-Platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation](https://ace-teleop.github.io/)] \[[github](https://github.com/ACETeleop/ACETeleop) ⭐ 136 | 🐛 1 | 🌐 Python | 📅 2024-10-01]
 
-GR00T N1 \[[Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734)] \[[github](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,223 | 🐛 341 | 🌐 Python | 📅 2026-10-15]
+GR00T N1 \[[Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734)] \[[github](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,224 | 🐛 341 | 🌐 Python | 📅 2026-10-15]
 
 BEHAVIOR Robot Suite \[[Streamlining Real-World Whole-Body Manipulation](https://behavior-robot-suite.github.io/)] \[[github](https://github.com/behavior-robot-suite/brs-algo) ⭐ 174 | 🐛 5 | 🌐 Python | 📅 2025-08-24]
 
@@ -172,15 +172,15 @@ dex-urdf: A collection of high-quality URDF models for dexterous hands and objec
 
 ### robot\_descriptions
 
-robot\_descriptions: Python package to load robot description files (URDF, MJCF) \[[pkg](https://github.com/robot-descriptions/robot_descriptions.py) ⭐ 842 | 🐛 5 | 🌐 Python | 📅 2026-10-16]
+robot\_descriptions: Python package to load robot description files (URDF, MJCF) \[[pkg](https://github.com/robot-descriptions/robot_descriptions.py) ⭐ 843 | 🐛 5 | 🌐 Python | 📅 2026-10-16]
 
 <a name="RelatedAwesomeLists" />
 
 ## Related Awesome Lists
 
-* [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) ⭐ 2,827 | 🐛 0 | 🌐 Python | 📅 2026-10-17 - Humanoid robot learning papers
-* [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,683 | 🐛 2 | 📅 2026-10-11 - URDF/MJCF robot models
-* [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) ⭐ 1,167 | 🐛 11 | 📅 2026-09-19 - Comprehensive robot manipulation papers
+* [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) ⭐ 2,830 | 🐛 0 | 🌐 Python | 📅 2026-10-19 - Humanoid robot learning papers
+* [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,684 | 🐛 2 | 📅 2026-10-11 - URDF/MJCF robot models
+* [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) ⭐ 1,168 | 🐛 11 | 📅 2026-09-19 - Comprehensive robot manipulation papers
 * [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) ⭐ 948 | 🐛 2 | 📅 2026-03-16 - Humanoid robot learning
 * [Awesome-Touch](https://github.com/linchangyi1/Awesome-Touch) ⭐ 783 | 🐛 1 | 📅 2026-10-18 - Tactile sensing and manipulation
 * [Awesome-Loco-Manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) ⭐ 334 | 🐛 0 | 🌐 CMake | 📅 2026-06-25 - Locomotion and manipulation
@@ -205,21 +205,21 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
-* \[2025.03] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots \[**VLA**] \[**diffusion**] \[[paper](https://arxiv.org/abs/2503.14734)] \[[code](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,223 | 🐛 341 | 🌐 Python | 📅 2026-10-15]
+* \[2025.03] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots \[**VLA**] \[**diffusion**] \[[paper](https://arxiv.org/abs/2503.14734)] \[[code](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,224 | 🐛 341 | 🌐 Python | 📅 2026-10-15]
 
-* \[2024.04] Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer \[**RL**] \[**benchmark**] \[[paper](https://arxiv.org/abs/2404.05695)] \[[project](https://sites.google.com/view/humanoid-gym/)] \[[code](https://github.com/roboterax/humanoid-gym) ⭐ 2,103 | 🐛 24 | 🌐 Python | 📅 2025-01-26]
+* \[2024.04] Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer \[**RL**] \[**benchmark**] \[[paper](https://arxiv.org/abs/2404.05695)] \[[project](https://sites.google.com/view/humanoid-gym/)] \[[code](https://github.com/roboterax/humanoid-gym) ⭐ 2,104 | 🐛 24 | 🌐 Python | 📅 2025-01-26]
 
-* \[2024.12] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control \[**RL**] \[[project](https://mobile-tv.github.io/)] \[[paper](https://arxiv.org/abs/2412.07773)] \[[code](https://github.com/OpenTeleVision/TeleVision) ⭐ 1,317 | 🐛 41 | 🌐 Python | 📅 2024-09-27]
+* \[2024.12] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control \[**RL**] \[[project](https://mobile-tv.github.io/)] \[[paper](https://arxiv.org/abs/2412.07773)] \[[code](https://github.com/OpenTeleVision/TeleVision) ⭐ 1,318 | 🐛 41 | 🌐 Python | 📅 2024-09-27]
 
-* \[2024.07] Open-TeleVision Teleoperation with Immersive Active Visual Feedback \[**teleop**] \[[project](https://robot-tv.github.io/)] \[[paper](https://arxiv.org/abs/2407.01512)] \[[code](https://github.com/OpenTeleVision/TeleVision) ⭐ 1,317 | 🐛 41 | 🌐 Python | 📅 2024-09-27]
+* \[2024.07] Open-TeleVision Teleoperation with Immersive Active Visual Feedback \[**teleop**] \[[project](https://robot-tv.github.io/)] \[[paper](https://arxiv.org/abs/2407.01512)] \[[code](https://github.com/OpenTeleVision/TeleVision) ⭐ 1,318 | 🐛 41 | 🌐 Python | 📅 2024-09-27]
 
 * \[2024.07] GRUtopia: Dream General Robots in a City at Scale \[**benchmark**] \[[doc](https://grutopia.github.io/)] \[[paper](https://arxiv.org/abs/2407.10943)] \[[code](https://github.com/OpenRobotLab/GRUtopia) ⭐ 1,301 | 🐛 29 | 🌐 Python | 📅 2025-09-04]
 
 * \[2024.06] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning \[**benchmark**] \[[project](https://omni.human2humanoid.com/)] \[[paper](https://arxiv.org/abs/2406.08858)] \[[code](https://github.com/LeCAR-Lab/human2humanoid) ⭐ 1,078 | 🐛 38 | 🌐 Python | 📅 2025-02-21]
 
-* \[2024.06] HumanPlus: Humanoid Shadowing and Imitation from Humans \[**IL**] \[[project](https://humanoid-ai.github.io/)] \[[paper](https://arxiv.org/abs/2406.10454)] \[[code](https://github.com/MarkFzp/humanplus) ⭐ 854 | 🐛 0 | 🌐 Python | 📅 2024-07-01]
+* \[2024.06] HumanPlus: Humanoid Shadowing and Imitation from Humans \[**IL**] \[[project](https://humanoid-ai.github.io/)] \[[paper](https://arxiv.org/abs/2406.10454)] \[[code](https://github.com/MarkFzp/humanplus) ⭐ 855 | 🐛 0 | 🌐 Python | 📅 2024-07-01]
 
-* \[2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation \[**benchmark**] \[[project](https://humanoid-bench.github.io/)] \[[paper](https://arxiv.org/abs/2403.10506)] \[[code](https://github.com/carlosferrazza/humanoid-bench) ⭐ 802 | 🐛 26 | 🌐 Python | 📅 2025-09-18]
+* \[2024.03] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation \[**benchmark**] \[[project](https://humanoid-bench.github.io/)] \[[paper](https://arxiv.org/abs/2403.10506)] \[[code](https://github.com/carlosferrazza/humanoid-bench) ⭐ 803 | 🐛 26 | 🌐 Python | 📅 2025-09-18]
 
 * \[2024.08] RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands \[**Dataset**] \[[project](https://rp1m.github.io/)] \[[paper](https://arxiv.org/abs/2408.11048)] \[[code](https://github.com/google-research/robopianist) ⚠️ Archived]
 
@@ -227,11 +227,11 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 * \[2024.10] Generalizable Humanoid Manipulation with 3D Diffusion Policies \[**IL**] \[**diffusion**] \[[project](https://humanoid-manipulation.github.io/)] \[[paper](https://arxiv.org/abs/2410.10803)] \[[code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) ⭐ 558 | 🐛 4 | 🌐 Python | 📅 2025-06-16]
 
-* \[2025.09] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation \[**IL**] \[[paper](https://arxiv.org/abs/2509.20322)] \[[project](https://visualmimic.github.io/)] \[[code](https://github.com/visualmimic/VisualMimic) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2025-10-03]
+* \[2025.09] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation \[**IL**] \[[paper](https://arxiv.org/abs/2509.20322)] \[[project](https://visualmimic.github.io/)] \[[code](https://github.com/visualmimic/VisualMimic) ⭐ 301 | 🐛 1 | 🌐 Python | 📅 2025-10-03]
 
 * \[2025.02] DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning \[**IL**] \[[paper](https://arxiv.org/abs/2502.16932)] \[[project](https://demo-generation.github.io/)] \[[code](https://github.com/TEA-Lab/DemoGen) ⭐ 259 | 🐛 2 | 🌐 Python | 📅 2025-07-18]
 
-* \[2024.10] EgoMimic: Scaling Imitation Learning via Egocentric Video \[**IL**] \[[project](https://egomimic.github.io/)] \[[paper](https://arxiv.org/abs/2410.24221)] \[[code](https://github.com/SimarKareer/EgoMimic) ⭐ 230 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-10]
+* \[2024.10] EgoMimic: Scaling Imitation Learning via Egocentric Video \[**IL**] \[[project](https://egomimic.github.io/)] \[[paper](https://arxiv.org/abs/2410.24221)] \[[code](https://github.com/SimarKareer/EgoMimic) ⭐ 231 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-10]
 
 * \[2025.03] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities \[**IL**] \[[paper](https://arxiv.org/abs/2503.05652)] \[[project](https://behavior-robot-suite.github.io/)] \[[code](https://github.com/behavior-robot-suite/brs-algo) ⭐ 174 | 🐛 5 | 🌐 Python | 📅 2025-08-24]
 
@@ -301,7 +301,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 * \[2025.02] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping \[**VLA**] \[**grasping**] \[[paper](https://arxiv.org/abs/2502.20900)] \[[project](https://dexgraspvla.github.io/)] \[[code](https://github.com/Psi-Robot/DexGraspVLA) ⭐ 575 | 🐛 10 | 🌐 Python | 📅 2025-08-10]
 
-* \[2025.05] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video \[**Dataset**] \[[paper](https://arxiv.org/abs/2505.11709)] \[[code](https://github.com/apple/ml-egodex) ⭐ 398 | 🐛 9 | 🌐 Python | 📅 2026-09-11]
+* \[2025.05] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video \[**Dataset**] \[[paper](https://arxiv.org/abs/2505.11709)] \[[code](https://github.com/apple/ml-egodex) ⭐ 400 | 🐛 9 | 🌐 Python | 📅 2026-09-11]
 
 * \[2025.03] DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness \[**diffusion**] \[[paper](https://arxiv.org/abs/2503.08257)] \[[project](https://dexgraspanything.github.io/)] \[[code](https://github.com/4DVLab/DexGrasp-Anything) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2025-12-22]
 
@@ -419,7 +419,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Bimanual Dexterous Multi-Fingered Manipulation
 
-* \[2024.03] DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation \[**IL**] \[[project](https://dex-cap.github.io/)] \[[paper](https://arxiv.org/abs/2403.07788)] \[[code](https://github.com/j96w/DexCap) ⭐ 424 | 🐛 11 | 🌐 Python | 📅 2024-10-10]
+* \[2024.03] DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation \[**IL**] \[[project](https://dex-cap.github.io/)] \[[paper](https://arxiv.org/abs/2403.07788)] \[[code](https://github.com/j96w/DexCap) ⭐ 425 | 🐛 11 | 🌐 Python | 📅 2024-10-10]
 
 * \[2024.07] Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning \[**IL**] \[[project](https://dingry.github.io/projects/bunny_visionpro)] \[[paper](https://arxiv.org/abs/2407.03162)] \[[code](https://github.com/Dingry/BunnyVisionPro) ⭐ 357 | 🐛 8 | 🌐 Python | 📅 2024-09-18]
 
@@ -471,7 +471,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Dual-Arm Manipulation with Other End Effectors
 
-* \[2024.01] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation \[**IL**] \[[project](https://mobile-aloha.github.io/)] \[[paper](http://arxiv.org/abs/2401.02117)] \[[code(learning)](https://github.com/MarkFzp/act-plus-plus) ⭐ 3,671 | 🐛 51 | 🌐 Python | 📅 2024-05-15] \[[code(hardware)](https://github.com/MarkFzp/mobile-aloha) ⭐ 4,473 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-06-22]
+* \[2024.01] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation \[**IL**] \[[project](https://mobile-aloha.github.io/)] \[[paper](http://arxiv.org/abs/2401.02117)] \[[code(learning)](https://github.com/MarkFzp/act-plus-plus) ⭐ 3,671 | 🐛 51 | 🌐 Python | 📅 2024-05-15] \[[code(hardware)](https://github.com/MarkFzp/mobile-aloha) ⭐ 4,474 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2024-06-22]
 
 * \[2024.10] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation \[**IL**] \[**foundation**] \[[github](https://github.com/thu-ml/RoboticsDiffusionTransformer) ⭐ 1,814 | 🐛 41 | 🌐 Python | 📅 2026-01-21] \[[paper](https://arxiv.org/abs/2410.07864)] \[[project](https://rdt-robotics.github.io/rdt-robotics/)]
 
@@ -531,4 +531,4 @@ Close reading notes for key papers will be updated in [/media/humanoid/909f6636-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
