@@ -151,7 +151,7 @@
                 "open_issues": 83,
                 "owner": "openai",
                 "repo": "roboschool",
-                "stars": 2170,
+                "stars": 2169,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -214,7 +214,7 @@
                 "open_issues": 0,
                 "owner": "DeepRoboticsLab",
                 "repo": "deep_robotics_model",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -275,11 +275,11 @@
                 "id": 532854029,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T17:02:05Z",
+                "last_commit": "2026-11-10T20:21:12Z",
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4337,
+                "stars": 4346,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -415,7 +415,7 @@
                 "id": 977435538,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T18:08:45Z",
+                "last_commit": "2026-11-10T21:51:03Z",
                 "open_issues": 5,
                 "owner": "orcahand",
                 "repo": "orcahand_description",
@@ -548,11 +548,11 @@
                 "id": 532854029,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T17:02:05Z",
+                "last_commit": "2026-11-10T20:21:12Z",
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4337,
+                "stars": 4346,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -587,7 +587,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3503,
+            "stars": 3504,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -611,11 +611,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T08:40:37Z",
-            "open_issues": 420,
+            "last_commit": "2026-11-11T08:09:14Z",
+            "open_issues": 422,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8608,
+            "stars": 8617,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -641,7 +641,7 @@
             "open_issues": 16,
             "owner": "PKU-EPIC",
             "repo": "DexGraspNet",
-            "stars": 481,
+            "stars": 482,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -806,7 +806,7 @@
             "open_issues": 39,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3227,
+            "stars": 3228,
             "topics": [
               "pretraining-for-robotics",
               "robotic-foundation-model",
@@ -849,11 +849,11 @@
             "id": 946829547,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T05:11:55Z",
-            "open_issues": 342,
+            "last_commit": "2026-11-10T18:35:56Z",
+            "open_issues": 340,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 8341,
+            "stars": 8352,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -918,11 +918,11 @@
             "id": 881022384,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T02:07:08Z",
+            "last_commit": "2026-11-11T02:10:08Z",
             "open_issues": 1,
             "owner": "YanjieZe",
             "repo": "awesome-humanoid-robot-learning",
-            "stars": 2885,
+            "stars": 2893,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1121,11 +1121,11 @@
                 "id": 946829547,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T05:11:55Z",
-                "open_issues": 342,
+                "last_commit": "2026-11-10T18:35:56Z",
+                "open_issues": 340,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8341,
+                "stars": 8352,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -1460,7 +1460,7 @@
                 "open_issues": 0,
                 "owner": "amathislab",
                 "repo": "Kinesis",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "emg",
                   "motor-control",
@@ -1933,7 +1933,7 @@
                 "open_issues": 51,
                 "owner": "MarkFzp",
                 "repo": "act-plus-plus",
-                "stars": 3674,
+                "stars": 3675,
                 "topics": [
                   "imitation-learning",
                   "robotics"
@@ -1957,7 +1957,7 @@
                 "open_issues": 42,
                 "owner": "thu-ml",
                 "repo": "RoboticsDiffusionTransformer",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -2097,6 +2097,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "[2024.06] CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement [mocap] [project",
+              "description": "] [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository of \"CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement\".",
+                "homepage": null,
+                "id": 808658595,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-01T04:24:28Z",
+                "open_issues": 10,
+                "owner": "leolyliu",
+                "repo": "CORE4D-Instructions",
+                "stars": 128,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:20:09.590Z"
+            },
+            {
+              "node_type": "item",
               "title": "[2024.03] AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents [RL] [project",
               "description": "] [paper] [code]",
               "children": [],
@@ -2112,27 +2133,6 @@
                 "owner": "jiemingcui",
                 "repo": "anyskill",
                 "stars": 128,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:20:09.590Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[2024.06] CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement [mocap] [project",
-              "description": "] [paper] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repository of \"CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement\".",
-                "homepage": null,
-                "id": 808658595,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-01T04:24:28Z",
-                "open_issues": 10,
-                "owner": "leolyliu",
-                "repo": "CORE4D-Instructions",
-                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:20:09.590Z"
@@ -2189,7 +2189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:47:54.262Z",
+    "last_updated": "2026-11-11T08:18:03.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers and resources on humanoid manipulation, dexterous manipulation, bimanual dexterous manipulation, in-hand manipulation, and humanlike manipulation.",
